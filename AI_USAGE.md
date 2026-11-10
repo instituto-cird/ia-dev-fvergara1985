@@ -41,7 +41,7 @@ Fuente: Feng, K. J. K., McDonald, D. W. y Zhang, A. X. (2025). *Levels of Autono
 | Qué hubo que corregir o rehacer | La búsqueda inicial de Ruff se realizó en el panel de búsqueda de archivos. Se corrigió usando el panel de Extensiones. También fue necesario habilitar la confianza en la carpeta para activar Python. |
 | Cómo se verificó | Ejecuté las 37 pruebas con resultado satisfactorio y verify_setup.sh con 27 verificaciones aprobadas, 0 errores y 1 advertencia opcional por Docker. Revisé los cambios del README con git diff. |
 | Qué decisión fue propia |  Elegí construir un sistema comercial y ejecuté personalmente los comandos y los cambios del README.  |
-| Commit o PR | Pendiente. Se completará después de abrir el pull request. |
+| Commit o PR |  https://github.com/instituto-cird/ia-dev-fvergara1985/pull/1 |
 
 <!-- Copiar el bloque de la entrada para cada nueva (001, 002…) -->
 
